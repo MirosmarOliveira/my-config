@@ -1,8 +1,19 @@
 ## Text editor
-- <img src="https://code.visualstudio.com/assets/favicon.ico" height="30px" width="30px">
+
+  - <img src="https://code.visualstudio.com/assets/favicon.ico" height="30px" width="30px">
 
   - [Visual Studio Code](https://code.visualstudio.com/)
+  ## IDE
+
+- <img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" height="30px" width="30px">
+
+  - [Eclipse](https://www.eclipse.org/downloads/)
+
+  - <img src="https://spring.io/images/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg" height="30px" width="30px">
+
+  - [Spring tool suite](https://spring.io/tools) 
 ## Extensions 
+
 - <img src="https://avatars2.githubusercontent.com/u/25822731?s=400&v=4" height="30px" width="30px">
 
   - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
@@ -32,9 +43,11 @@
   - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 
 ## Font
+
 - [Fira Code](https://github.com/tonsky/FiraCode)
 
 ## Softwares
+
 - <img src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" height="30px" width="30px">
 
   - [Git](https://git-scm.com/)
