@@ -2,16 +2,16 @@
 
   - <img src="https://code.visualstudio.com/assets/favicon.ico" height="30px" width="30px">
 
-  - [Visual Studio Code](https://code.visualstudio.com/)
+    - [Visual Studio Code](https://code.visualstudio.com/)
   ## IDE
+ - <img src="https://spring.io/images/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg" height="30px" width="30px">
 
+    - [Spring tool suite ](https://spring.io/tools) 
 - <img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" height="30px" width="30px">
 
   - [Eclipse](https://www.eclipse.org/downloads/)
 
-  - <img src="https://spring.io/images/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg" height="30px" width="30px">
-
-  - [Spring tool suite](https://spring.io/tools) 
+ 
 ## Extensions 
 
 - <img src="https://avatars2.githubusercontent.com/u/25822731?s=400&v=4" height="30px" width="30px">
