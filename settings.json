@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Fira Code Retina",
+    "editor.fontLigatures": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.autofetch": true
+}
