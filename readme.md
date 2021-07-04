@@ -2,7 +2,6 @@
 - <img src="https://code.visualstudio.com/assets/favicon.ico" height="30px" width="30px">
 
   - [Visual Studio Code](https://code.visualstudio.com/)
-
 ## Extensions
 - <img src="https://avatars2.githubusercontent.com/u/25822731?s=400&v=4" height="30px" width="30px">
 
@@ -10,7 +9,7 @@
   
 - <img src="https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/liveserver/5.6.1/1555497731217/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
 
-  - [Live Server](src="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer")
+  - [Live Server]("https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer")
 
 - <img src="https://draculatheme.com/static/icons/pack-1/045-dracula.svg" height="30px" width="30px">
 
