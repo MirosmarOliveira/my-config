@@ -44,26 +44,7 @@
 
   - <img src="https://steoates.gallerycdn.vsassets.io/extensions/steoates/autoimport/1.5.4/1618500754212/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
 
-  - [Auto Import](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-
-  - [auto rename tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-
-  - <img src="https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.9/1634044270873/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
-
-  - [auto rename tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-
-  - [rainbow brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
-
-  - <img src="https://2gua.gallerycdn.vsassets.io/extensions/2gua/rainbow-brackets/0.0.6/1474455607820/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
-
-  - [rainbow brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
-
-  - [css formatter](https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter)
-
-  - <img src="https://cdn.vsassets.io/v/M198_20220125.5/_content/Header/default_icon_128.png" height="30px" width="30px">
-
-  - [css formatter](https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter)
-    
+  - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 
 ## Font
 
