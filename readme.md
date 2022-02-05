@@ -42,7 +42,7 @@
 
   - [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 
- - <img src="https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.9/1634044270873/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
+- <img src="https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.9/1634044270873/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
   
   - [auto rename tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
