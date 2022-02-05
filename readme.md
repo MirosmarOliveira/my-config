@@ -22,7 +22,7 @@
 
   - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-- <img src="https://draculatheme.com/static/icons/pack-1/045-dracula.svg" height="30px" width="30px">
+- <img src="https://dracula-theme.gallerycdn.vsassets.io/extensions/dracula-theme/theme-dracula/2.24.1/1639416273023/Microsoft.VisualStudio.Services.Icons.Default" height="30px" width="30px">
 
   - [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
